@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.10.1//EN
+N:Krishnamoorthy;Mohan;;;
+FN:Mohan Krishnamoorthy
+ORG:George Mason University;
+EMAIL;type=INTERNET;type=WORK1;type=pref:mkrishn4@gmu.edu
+EMAIL;type=INTERNET;type=WORK2;type=pref:mxk4903@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:7036460661
+ADR;type=WORK;type=pref:;;4400 University Drive\, MS 4A5;Fairfax;VA;22030;USA
+item1.URL;type=pref:http://cs.gmu.edu/~mkrishn4/
+item1.X-ABLabel:_$!<HomePage>!$_
+UID:87c82043-8048-4b23-a92e-941243eda1c3
+X-ABUID:87C82043-8048-4B23-A92E-941243EDA1C3:ABPerson
+END:VCARD

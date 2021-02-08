@@ -1,0 +1,7 @@
+Launch Cisco AnyConnect Secure Mobility Client from Applications
+Enter "vpn.gmu.edu" and click "Connect". Then choose "Auto-Select" and enter your GMU ID and password and click "OK".
+
+ssh mkrishn4@home.cs.gmu.edu
+
+OLD
+ssh mkrishn4@cs1.cs.gmu.edu

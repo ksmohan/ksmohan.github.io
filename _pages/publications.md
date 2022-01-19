@@ -13,18 +13,15 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-<ol>{% for post in site.journals %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ol>
-<!-- {% for post in site.publications reversed %}
+{% for post in site.journals reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
 
 ## Peer-reviewed conference publications & workshops
 
-<ol>{% for post in site.confWsps %}
+<ul>{% for post in site.journals %}
   {% include archive-single-cv.html %}
-{% endfor %}</ol>
+{% endfor %}</ul>
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->

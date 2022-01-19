@@ -23,8 +23,8 @@ author_profile: true
   {% include archive-single-cv.html %}
 {% endfor %}</ol>
 
-## Under review
+<!-- ## Under review
 
 <ol>{% for post in site.underReview reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ol>
+{% endfor %}</ol> -->

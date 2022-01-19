@@ -1,0 +1,20 @@
+title	type	url_slug	venue	date	location	talk_url	description
+Apprentice for Event Generator Tuning	Conference proceedings talk	app21	25th International Conference on Computing in High Energy and Nuclear Physics	2021-05-20	"Paris, France (Online)"		
+Stochastic Optimization Algorithm based on Deterministic Approximations	Conference proceedings talk	soda21	International Conference on Operations Research and Enterprise Systems	2021-02-05	"Vienna, Austria (Online)"		
+A Framework for Large-Scale Nonlinear Optimization	Talk	NLO20	SIAM Conference on Parallel Processing for Scientific Computing	2020-02-24	"Seattle, WA"		
+Bi-level Optimization for Design of Experiments	Talk	BLO19	INFORMS Annual Meeting	2019-10-20	"Seattle, WA"		
+"Optimization based on White-Box Deterministic Approximations: Models, Algorithms, and Application to Service Networks"	Invited talk	SODA18	Argonne National Laboratory	2018-06-20	"Lemont, IL"		
+Service Networks: Stochastic Optimization based on Deterministic Approximations and  Repository of Performance Models	Invited talk	SN17	"Doctoral Candidate Student Presentations at the 29__h
+International Conference on Tools for Artificial Intelligence"	2017-11-06	"Boston, MA"		
+"Manufacturing and Contract Service Networks: Composition, Optimization and Tradeoff Analysis based on a Reusable Repository of Performance Models"	Conference proceedings talk	MCSN17	"IEEE International Conference
+on Big Data"	20217-12-12	"Boston, MA"		
+A System and Architecture for Reusable Abstractions of Manufacturing Processes	Conference proceedings talk	RAMP16	"IEEE
+International Conference on Big Data"	20216-12-06	Washington DC		
+Efficient Decision Support System for Discrete Manufacturing Processes	Conference proceedings talk	DSS16	"Computer Science PhD Symposium, George Mason University"	20216-12-15	"Fairfax, VA"		
+"Analysis and Optimization in Smart Manufacturing based on a Reusable Knowledge Base for
+Process Performance Models"	Invited talk	SM15	 IEEE International Conference on Big Data	2015-10-30	"Santa Clara, CA"		
+"Temporal manufacturing query language (tMQL) for domain specific composition, what-if analysis, and optimization of manufacturing processes with inventories"	Workshop talk	TMQL15	"INFORMS Computing
+Society Conference"	2015-01-12	"Richmond, VA"		
+Optimizing Stochastic Temporal Manufacturing Processes with Inventories: An Efficient  Heuristic Algorithm Based on Deterministic Approximations	Conference proceedings talk	SODA15	"INFORMS Computing
+Society Conference"	2015-01-12	"Richmond, VA"		
+Tree prune & decorator: An efficient tool for selecting and annotating data from a biased genetic database	Talk	TP10	"Theoretical Biology and Biophysics Seminar, Los Alamos National Laboratory"	2010-05-10	"Los Alamos, NM"		

@@ -34,7 +34,7 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("Journals.txt", sep="\t", header=0)
+publications = pd.read_csv("ConfWsps.txt", sep="\t", header=0)
 publications
 
 
@@ -102,7 +102,7 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_journals/" + md_filename, 'w') as f:
+    with open("../_confWsps/" + md_filename, 'w') as f:
         f.write(md)
 
 

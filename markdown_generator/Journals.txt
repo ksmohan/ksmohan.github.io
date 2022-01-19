@@ -1,0 +1,2 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+2022-01-17	BROOD: Bilevel and Robust Optimization and Outlier Detection for Efficient Tuning of High-Energy Physics Event Generators.	SciPost Physics		"W. Wang, M. Krishnamoorthy, J. Muller, S. Mrenna, H. Schulz, X. Ju, S. Leyffer, Z. Marshall. BROOD: Bilevel and Robust Optimization and Outlier Detection for Efficient Tuning of High-Energy Physics Event Generators, In the SciPost Physics. January 2022."	BROOD	https://dx.doi.org/10.21468/SciPostPhysCore.5.1.001

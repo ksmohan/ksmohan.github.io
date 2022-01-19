@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohan Krishnamoorthy"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently working as a Research Consultant in the [MCS](https://www.anl.gov/mcs) Argonne National Laboratory from the Greater Toronto Area in Ontario, Canada. I am currently
+I am currently working as a Research Consultant in the [Mathematics and Computer Science](https://www.anl.gov/mcs) division at Argonne National Laboratory from the Greater Toronto Area in Ontario, Canada. I am currently
   investigating mathematical and algorithmic techniques for approximating expensive
   functions and optimization for tuning derivate-free Monte Carlo simulators.
   I am a member of the Institute for Operations Research and the Management Sciences (INFORMS) and Society for Industrial and Applied Mathematics (SIAM).

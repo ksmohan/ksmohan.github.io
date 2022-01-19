@@ -1,34 +1,37 @@
 # main links links
 main:
+  # - title: "Research"
+  #   url: /research/
   # - title: "Publications"
   #   url: /publications/
-
+  #
   # - title: "Talks"
   #   url: /talks/
   #
-  # - title: "Research"
-  #   url: /research/
   #
-  # - title: "Teaching"
-  #   url: /teaching/
+  # - title: "CV"
+  #   url: /cv/
   #
-  # - title: "Education"
-  #   url: /education/
+  ## - title: "Teaching"
+  ##   url: /teaching/
+  ##
+  ## - title: "Education"
+  ##   url: /education/
+  ##
+  ## - title: "Positions held"
+  ##   url: /posheld/
+  ##
+  ## - title: "Software packages"
+  ##   url: /softPkgs/
+  ##
+  ## - title: "Awards & accomplishments"
+  ##   url: /awards/
+  ##
+  ## - title: "Professional service"
+  ##   url: /service/
   #
-  # - title: "Positions held"
-  #   url: /posheld/
-  #
-  # - title: "Software packages"
-  #   url: /softPkgs/
-  #
-  # - title: "Awards & accomplishments"
-  #   url: /awards/
-  #
-  # - title: "Professional service"
-  #   url: /service/
-  #
-  # - title: "Skills"
-  #   url: /skills/
+  ## - title: "Skills"
+  ##   url: /skills/
   #
   # - title: "Contact"
   #   url: /contact/

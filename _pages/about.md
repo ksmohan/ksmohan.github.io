@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohan Krish"
+title: "Mohan Krishnamoorthy"
 excerpt: "About me"
 author_profile: true
 redirect_from:

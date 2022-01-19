@@ -184,7 +184,7 @@ collections:
   underReview:
     output: true
     permalink: /:collection/:path/
-  underReview:
+  confWsps:
     output: true
     permalink: /:collection/:path/
   # publications:

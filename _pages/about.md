@@ -23,6 +23,15 @@ Before that, I worked at [Los Alamos National Laboratory](https://www.lanl.gov/o
 I also have a Masters in [Computer Science from Rochester Institute of Technology](https://www.rit.edu/computing/department-computer-science)
 and a Bachelors in computer engineering from Mumbai University.
 
+## Research Interests
+* <a href="https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:model_driven_engineering">Model-driven engineering</a>
+* <a href="https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:big_data_analytics">Big Data Analytics</a>
+* <a href="https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3AAlgorithm_engineering&btnG=">Algorithm engineering</a>
+* <a href="https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3ADecision_support_systems&btnG=">Decision support systems</a>
+* <a href="https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=optimization&btnG=">Global Optimization</a>
+* <a href="https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=optimization&btnG=">Derivative-free Optimization</a>
+* <a href="https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=high+performance+computing&btnG=">High Performance Computing</a>
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website

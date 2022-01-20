@@ -11,7 +11,7 @@ author_profile: true
 <!-- {% endif %} -->
 
 ## Peer-reviewed journal articles
-
+You can also find my articles on <u><a href="ttps://scholar.google.com/citations?user=hNX1L8EAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 <ol>{% for post in site.journals reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ol>

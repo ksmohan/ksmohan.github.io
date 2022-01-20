@@ -224,6 +224,42 @@ defaults:
       type: teaching
     values:
       layout: single
+      author_profile: false
+      share: false
+      comments: false
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: false
+  # _journals
+  - scope:
+      path: ""
+      type: journals
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _confWsps
+  - scope:
+      path: ""
+      type: confWsps
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _underReview
+  - scope:
+      path: ""
+      type: underReview
+    values:
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -253,6 +289,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:

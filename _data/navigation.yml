@@ -9,10 +9,12 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "CV"
+    url: /cv/
   #
-  # - title: "CV"
-  #   url: /cv/
-  #
+  # - title: "Contact"
+  #   url: /contact/
+
   ## - title: "Teaching"
   ##   url: /teaching/
   ##
@@ -33,10 +35,6 @@ main:
   #
   ## - title: "Skills"
   ##   url: /skills/
-  #
-  # - title: "Contact"
-  #   url: /contact/
-  #
   ## - title: "Guide"
   ##   url: /markdown/
   ##

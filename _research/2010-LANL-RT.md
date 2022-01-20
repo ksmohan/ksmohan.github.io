@@ -10,4 +10,4 @@ location: "Los Alamos, NM, USA"
 * Designed and developed scientific algorithms for highly variable and large scale bioinformatics tools.
 * Developed and debugged multiple backend modules of the HIV project.
 * Redesigned the HIV website using Model-View-Controller (MVC) framework and web services.
-* Publications to come out of this work include [BMCbio'13](/publication/2013-08-21-BMCbio13)
+* Publications to come out of this work include [BMCbio'13](/publication/2013-08-21-BMCbio13).

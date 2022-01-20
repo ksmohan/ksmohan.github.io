@@ -9,4 +9,4 @@ location: "Los Alamos, NM, USA"
 ---
 * Designed and developed Tree Viewer, Pruner and Decorator tools to perform selection and annotation of Influenza sequences.
 * Designed and developed a schema for a large Influenza Sequence Database.
-* Publications to come out of this work include [BMCbio'11](/publication/2011-02-09-BMCbio11)
+* Publications to come out of this work include [BMCbio'11](/publication/2011-02-09-BMCbio11).

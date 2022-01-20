@@ -13,4 +13,4 @@ location: "Lemont, IL, USA"
 * Publications to come out of this work include
 [CPC'20](/publication/2020-04-01-CPC20),
 [CHEP'21](/publication/2021-08-23- CHEP21), and
-[SCIPOST'22](/publication/2022-01-17-SCIPOST22),
+[SCIPOST'22](/publication/2022-01-17-SCIPOST22).

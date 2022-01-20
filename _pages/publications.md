@@ -4,12 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %}
 
 <!-- {% if author.googlescholar %} -->
   You can also find my articles on <u><a href="ttps://scholar.google.com/citations?user=hNX1L8EAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 <!-- {% endif %} -->
-
-{% include base_path %}
 
 ## Peer-reviewed journal articles
 

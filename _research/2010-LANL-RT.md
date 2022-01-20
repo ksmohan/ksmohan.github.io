@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Research Technologist"
+collection: research
+type: "Full time"
+permalink: /research/2010-LANL-RT
+venue: "Los Alamos National Laboratory, Theoretical Biology and Biophysics division"
+date: 2010-05-10
+location: "Los Alamos, NM, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Designed and developed scientific algorithms for highly variable and large scale bioinformatics tools.
+* Developed and debugged multiple backend modules of the HIV project.
+* Redesigned the HIV website using Model-View-Controller (MVC) framework and web services.
+* Publications to come out of this work include [BMCbio'13](/publication/2013-08-21-BMCbio13)

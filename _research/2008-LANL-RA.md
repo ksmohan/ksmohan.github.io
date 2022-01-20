@@ -3,7 +3,7 @@ title: "Research Assistant"
 collection: research
 type: "Internship"
 permalink: /research/2008-LANL-RA
-venue: "Los Alamos National Laboratory"
+venue: "Los Alamos National Laboratory, Theoretical Biology and Biophysics division"
 date: 2008-07-13
 location: "Los Alamos, NM, USA"
 ---

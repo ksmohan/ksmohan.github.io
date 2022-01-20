@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Research Consultant"
+collection: research
+type: "Full time (Contract)"
+permalink: /research/2022-ANL-RC
+venue: "Argonne National Laboratory, Mathematics and Computer Science division"
+date: 2022-01-01
+location: "Greater Toronto Area, ON, CANADA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Currently developing mathematical and algorithmic techniques for directly fitting Monte Carlo simulations to experimental data or data observed in nature using a stochastic trust-region optimization algorithm.
+* Currently developing a workflow package to efficiently solve derivate-free stochastic optimization problems in a high performance computing environment.

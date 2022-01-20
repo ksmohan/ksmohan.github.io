@@ -2,9 +2,9 @@
 title: "Research Assistant"
 collection: research
 type: "Internship"
-permalink: /research/2010-LANL-RA
+permalink: /research/2008-LANL-RA
 venue: "Los Alamos National Laboratory"
-date: 2010-07-13
+date: 2008-07-13
 location: "Los Alamos, NM, USA"
 ---
 * Designed and developed Tree Viewer, Pruner and Decorator tools to perform selection and annotation of Influenza sequences.

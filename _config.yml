@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohan Krishnamoorthy"
 title_separator          : "-"
 name                     : &name "Mohan Krishnamoorthy"
-description              : &description "Research & Development, Scientific Engineer & Programmer. \n Reseach Consultant at Argonne National Laboratory"
+description              : &description "Research & Development, Scientific Engineer & Programmer. <br> <br> Reseach Consultant at Argonne National Laboratory (MCS)"
 url                      : https://ksmohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ksmohan/ksmohan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohan Krishnamoorthy"
   avatar           : "TB.jpg"
-  bio              : "Research & Development, Scientific Engineer & Programmer"
+  bio              : "Research & Development, Scientific Engineer & Programmer. <br> <br> Reseach Consultant at Argonne National Laboratory (MCS)"
   location         : "Greater Toronto Area, ON, Canada"
   employer         : "Argonne National Laboratory"
   pubmed           :

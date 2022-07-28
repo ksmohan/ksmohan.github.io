@@ -83,8 +83,8 @@ author:
   name             : "Mohan Krishnamoorthy"
   avatar           : "TB.jpg"
   bio              : "Research & Development, Scientific Engineer & Programmer. <br> <br> Reseach Consultant in Mathematics and Computer Science division at Argonne National Laboratory"
-  location         : "Greater Toronto Area, ON, Canada"
-  employer         : "Argonne National Laboratory"
+  location         : "Greater Toronto Area,<br>Ontario, Canada"
+  employer         : "Argonne National Lab."
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hNX1L8EAAAAJ&hl=en"
   email            :
@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  software:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/

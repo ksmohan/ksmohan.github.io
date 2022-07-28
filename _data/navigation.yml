@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Software"
+    url: /software/
+
   - title: "Research"
     url: /research/
 

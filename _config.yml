@@ -230,6 +230,15 @@ defaults:
   #     author_profile: true
   #     share: false
   #     comments: false
+  # software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _research
   - scope:
       path: ""

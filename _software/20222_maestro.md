@@ -2,7 +2,7 @@
 title: "MÆSTRO"
 collection: software
 type: ""
-permalink: /software/apprentice
+permalink: /software/maestro
 venue: ""
 date: 2022-07-20
 location: "Argonne National Laboratory"

@@ -9,7 +9,20 @@ redirect_from:
 ---
 
 
-I am currently working as a Research Consultant in the [Mathematics and Computer Science](https://www.anl.gov/mcs) division at Argonne National Laboratory from the Greater Toronto Area in Ontario, Canada. I am currently
+I am currently working as Chief Technology Officer & Founding Engineer at [Synod IntelliCare](https://www.synodintellicare.com)
+  in Toronto, Ontario, Canada, where I architected and lead development of DDFA, a fairness auditing platform for healthcare AI,
+  built on a FastAPI/Python and React/TypeScript stack with OAuth2/PKCE authentication, RBAC, audit logging, and Canadian
+  census-based bias benchmarking, deployed on AWS (EC2, RDS, S3, IAM). I built and direct a 5-person engineering team across
+  backend, infrastructure, and frontend functions, and partner closely with executive leadership on company strategy, research
+  and accelerator partnerships, and product positioning and go-to-market priorities.
+  I am also continuing independent consulting work based in the Greater Toronto Area on efficient asset allocation and
+  portfolio optimization using operations research and machine learning techniques.
+  Prior to this, I was a Researcher at the [University of Ottawa](https://www.uottawa.ca) (2024-2025), where I designed a
+  context-sensitive Human-AI orchestration framework for assigning optimal collaboration modes (HITL, HOTL, HITLFE, HOOTL)
+  based on decision criticality and latitude, and a Human-AI responsibility allocation methodology using the 4C model
+  (Communication, Coordination, Cooperation, Collaboration) to distribute tasks across interaction layers.
+  Before that, I was a Research Consultant in the [Mathematics and Computer Science](https://www.anl.gov/mcs) division at
+  Argonne National Laboratory (2022-2023), and a Postdoctoral Appointee there from 2018-2021,
   investigating mathematical and algorithmic techniques for approximating expensive
   functions and optimization for tuning derivate-free Monte Carlo simulators.
   I am a member of the Institute for Operations Research and the Management Sciences (INFORMS) and Society for Industrial and Applied Mathematics (SIAM).

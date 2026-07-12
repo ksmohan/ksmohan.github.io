@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohan Krishnamoorthy"
 title_separator          : "-"
 name                     : &name "Mohan Krishnamoorthy"
-description              : &description "Research & Development, Scientific Engineer & Programmer. <br> <br> Chief Technology Officer & Founding Engineer at Synod IntelliCare, Toronto, ON, Canada"
+description              : &description "R&D | Machine Learning | Operations Research | Responsible AI | Writer | Community Organizer <br> <br> Chief Technology Officer & Founding Engineer at Synod IntelliCare, Toronto, ON, Canada"
 url                      : https://ksmohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ksmohan/ksmohan.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mohan Krishnamoorthy"
-  avatar           : "TB.jpg"
-  bio              : "Research & Development, Scientific Engineer & Programmer. <br> <br> Chief Technology Officer & Founding Engineer at Synod IntelliCare, Toronto, ON, Canada"
+  avatar           : "mohan-krishnamoorthy.png"
+  bio              : "R&D | Machine Learning | Operations Research | Responsible AI | Writer | Community Organizer <br> <br> Chief Technology Officer & Founding Engineer at Synod IntelliCare, Toronto, ON, Canada"
   location         : "Greater Toronto Area,<br>Ontario, Canada"
   employer         : "Synod IntelliCare"
   pubmed           :

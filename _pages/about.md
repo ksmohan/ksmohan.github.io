@@ -9,20 +9,31 @@ redirect_from:
 ---
 
 
-I am currently working as Chief Technology Officer & Founding Engineer at [Synod IntelliCare](https://www.synodintellicare.com)
-  in Toronto, Ontario, Canada, where I architected and lead development of DDFA, a fairness auditing platform for healthcare AI,
+I am currently an independent Consultant & Strategic Advisor in the Greater Toronto Area, Ontario, Canada, helping startups
+  make better decisions with AI and data by combining decision math (operations research) with machine learning.
+  From April to September 2026, I was Chief Technology Officer & Founding Engineer at Synod IntelliCare in Toronto, a startup building
+  tools that check healthcare AI for bias, where I took a fairness-checking platform from first design to a live cloud product
+  in a few weeks, built and led the engineering team, and secured research and accelerator partnerships with the
+  Vector Institute and Sheridan College.
+  Before that, I was a Researcher at the [University of Ottawa](https://www.uottawa.ca) (2024-2025), where I created a decision guide
+  for when AI should act on its own, when a person should review, and when a person should stay in charge, and defined
+  responsibility between people and AI to reduce overreliance on AI in high-stakes work.
+  Earlier, I was a Postdoctoral Appointee and then Research Consultant in the [Mathematics and Computer Science](https://www.anl.gov/mcs) division at
+  Argonne National Laboratory (2018-2023), where I built the open-source tools MÆSTRO and Apprentice for tuning
+  slow, noisy simulations to match real experiment data.
+
+In more detail: at [Synod IntelliCare](https://www.synodintellicare.com) (Toronto, ON) I architected and led development of DDFA, a fairness auditing platform for healthcare AI,
   built on a FastAPI/Python and React/TypeScript stack with OAuth2/PKCE authentication, RBAC, audit logging, and Canadian
-  census-based bias benchmarking, deployed on AWS (EC2, RDS, S3, IAM). I built and direct a 5-person engineering team across
-  backend, infrastructure, and frontend functions, and partner closely with executive leadership on company strategy, research
+  census-based bias benchmarking, deployed on AWS (EC2, RDS, S3, IAM). I built and directed a 5-person engineering team across
+  backend, infrastructure, and frontend functions, and partnered closely with executive leadership on company strategy, research
   and accelerator partnerships, and product positioning and go-to-market priorities.
-  I am also continuing independent consulting work based in the Greater Toronto Area on efficient asset allocation and
+  As an independent consultant I continue to work on an AI modeling paradigm for efficient asset allocation and
   portfolio optimization using operations research and machine learning techniques.
-  Prior to this, I was a Researcher at the [University of Ottawa](https://www.uottawa.ca) (2024-2025), where I designed a
+  At the University of Ottawa I designed a
   context-sensitive Human-AI orchestration framework for assigning optimal collaboration modes (HITL, HOTL, HITLFE, HOOTL)
   based on decision criticality and latitude, and a Human-AI responsibility allocation methodology using the 4C model
   (Communication, Coordination, Cooperation, Collaboration) to distribute tasks across interaction layers.
-  Before that, I was a Research Consultant in the [Mathematics and Computer Science](https://www.anl.gov/mcs) division at
-  Argonne National Laboratory (2022-2023), and a Postdoctoral Appointee there from 2018-2021,
+  At Argonne National Laboratory I was a Research Consultant (2022-2023) and a Postdoctoral Appointee (2018-2021),
   investigating mathematical and algorithmic techniques for approximating expensive
   functions and optimization for tuning derivate-free Monte Carlo simulators.
   I am a member of the Institute for Operations Research and the Management Sciences (INFORMS) and Society for Industrial and Applied Mathematics (SIAM).
@@ -37,11 +48,12 @@ I also have a Masters in [Computer Science from Rochester Institute of Technolog
 and a Bachelors in computer engineering from Mumbai University.
 
 ## Areas of Interest
-* AI Fairness & Trustworthy Systems
-* Stochastic & Derivative-Free Optimization
-* Human-AI Collaboration & Decision Systems
-* Healthcare AI & Applied Machine Learning
-* High Performance & Scientific Computing
+* Algorithm Engineering
+* Machine Learning & Optimization
+* Decision Science
+* Responsible AI
+* Human-AI Orchestration
+* Scientific Computing
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

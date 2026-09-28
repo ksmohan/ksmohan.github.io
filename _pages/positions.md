@@ -65,4 +65,4 @@ Bioinformatics R&D in a U.S. national research lab
 
 **George Mason University (GMU)**, Fairfax, VA <br>
 *Graduate Teaching Assistant, 08/2012–12/2012*
-* Taught and conducted labs for an algorithmic programming class for undergraduate students.
+* Taught and conducted labs for an algorithmic programming class of undergraduate students.

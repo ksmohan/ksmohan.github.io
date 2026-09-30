@@ -5,14 +5,6 @@ permalink: /positions/
 author_profile: true
 ---
 
-**Self-employed**, Greater Toronto Area, ON <br>
-*Consultant & Strategic Advisor, 11/2025–Present* <br>
-Independent advisor helping startups make better decisions with AI and data
-* Advise an early-stage startup on an AI modeling paradigm for efficient asset allocation and portfolio optimization, building models that recommend how to split money across investments, balancing return against risk, and tested on 10 years of market data.
-* Built budgeting models that show where to spend and where to cut, reducing planned costs by about 15%.
-* Guide decisions by combining decision math (operations research) with machine learning, so the founders get clear recommendations they can act on with confidence.
-* Use AI assistants to capture the nuance in a founder's question and build a working model in days instead of weeks, then pressure test it on real-world scenarios before advising.
-
 **Synod IntelliCare**, Toronto, ON <br>
 *CTO & Founding Engineer, 04/2026–09/2026* <br>
 Startup building tools that check healthcare AI for bias
@@ -20,8 +12,16 @@ Startup building tools that check healthcare AI for bias
 * Made the key technical calls on design, security and build priorities, protecting sensitive health data with OAuth2/PKCE authentication, role-based access control (RBAC) and full audit logging.
 * Built and directed a 5-person engineering team across backend, infrastructure and frontend, setting one shared technical spec and establishing structured processes (SRS gap analysis reviews, task tracking, cross-functional syncs) so a fast-moving startup team moved in the same direction.
 * Partnered closely with executive leadership on company strategy, product positioning and go-to-market priorities, translating high-level vision into an actionable execution roadmap for the team.
-* Secured research and accelerator partnerships with the Vector Institute and Sheridan College, strengthening the company's credibility with investors and academic groups.
 * Used AI assistants across design, coding and review to ship about 30% faster, keeping quality high through peer review and automated checks.
+* Secured research and accelerator partnerships with the Vector Institute and Sheridan College, strengthening the company's credibility with investors and academic groups.
+
+**Self-employed**, Greater Toronto Area, ON <br>
+*Consultant & Strategic Advisor, 11/2025–Present* <br>
+Independent advisor helping startups make better decisions with AI and data
+* Built budgeting models that show where to spend and where to cut, reducing planned costs by about 15%.
+* Advise an early-stage startup on an AI modeling paradigm for efficient asset allocation and portfolio optimization, building models that recommend how to split money across investments, balancing return against risk, and tested on 10 years of market data.
+* Use AI assistants to capture the nuance in a founder's question and build a working model in days instead of weeks, then pressure test it on real-world scenarios before advising.
+* Guide decisions by combining decision math (operations research) with machine learning, so the founders get clear recommendations they can act on with confidence.
 
 **University of Ottawa**, Ottawa, ON <br>
 *Researcher, 09/2024–09/2025* <br>

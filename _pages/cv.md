@@ -9,4 +9,4 @@ redirect_from:
 
 Download <a href="https://ksmohan.github.io/files/MK_CV_for_web.pdf" target="_blank">my current CV here</a>
 
-You can read more about how I work in my [philosophy](/philosophy/).
+To learn more about how I work, see my [values](/philosophy/).

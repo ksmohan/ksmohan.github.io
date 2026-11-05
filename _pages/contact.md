@@ -9,5 +9,5 @@ The easiest way to get in touch with me is by clicking the link below (through e
 
 
 Other web locations include:<br>
- LinkedIn: <a href="https://www.linkedin.com/in/mohan-krishnamoorthy-46058bb" target="_blank">mohan-krishnamoorthy-46058bb</a><br>
+ LinkedIn: <a href="https://www.linkedin.com/in/mohan-krishnamoorthy-46058bb" target="_blank">linkedin.com/in/mohan-krishnamoorthy/</a><br>
  Google Scholar: <a href="https://scholar.google.com/citations?user=hNX1L8EAAAAJ&hl=en" target="_blank">mohan-krishnamoorthy-not-from-australia</a>

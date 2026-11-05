@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 
-I am currently an independent Consultant & Strategic Advisor in the Greater Toronto Area, Ontario, Canada, helping startups
+I am an R&D specialist with over 15 years of experience in applied AI, optimization and decision science. I advise startup founders and lead engineering teams, turning complex, uncertain problems into solutions people can use. I abide by a strong work ethic and a pragmatic philosophy of using AI tools to work faster without cutting corners on quality. You can read more about how I work in my [philosophy](/philosophy/).
+
+I am currently a freelance Consultant & Strategic Advisor in Toronto, Ontario, Canada, helping startups
   make better decisions with AI and data by combining decision math (operations research) with machine learning.
   From April to September 2026, I was Chief Technology Officer & Founding Engineer at Synod IntelliCare in Toronto, a startup building
-  tools that check healthcare AI for bias, where I took a fairness-checking platform from first design to a live cloud product
-  in a few weeks, built and led the engineering team, and secured research and accelerator partnerships with the
+  tools that check healthcare AI for bias, where I took a fairness-checking platform from first design to live use on AWS
+  in 5 weeks, built and led the engineering team, and secured research and accelerator partnerships with the
   Vector Institute and Sheridan College.
   Before that, I was a Researcher at the [University of Ottawa](https://www.uottawa.ca) (2024-2025), where I created a decision guide
   for when AI should act on its own, when a person should review, and when a person should stay in charge, and defined
@@ -54,6 +56,12 @@ and a Bachelors in computer engineering from Mumbai University.
 * Responsible AI
 * Human-AI Orchestration
 * Scientific Computing
+
+## Skills
+* **Technical:** Machine learning, decision guidance, AI-fluent building, mixed integer linear programming, stochastic optimization, Monte Carlo simulation, surrogate modeling, backtesting and walk-forward testing, fairness auditing, data quality assessment, responsible AI, human-AI orchestration, algorithm engineering
+* **Languages:** Python, MATLAB, HTML, CSS
+* **Tech stack:** FastAPI, React, pandas, NumPy, SciPy, statsmodels, scikit-learn, PyTorch, Pyomo, Gurobi, MLflow, Matplotlib, AWS (EC2, RDS, S3, IAM), Docker, Git, cron, Claude Code
+* **Leadership:** Technology leadership, engineering team leadership, architecture and security direction, company strategy and go-to-market, strategic advisory, founder advisory, partnership building, cross-functional collaboration
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

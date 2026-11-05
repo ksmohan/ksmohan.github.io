@@ -1,7 +1,9 @@
 ---
 layout: archive
 title: "Values"
-permalink: /philosophy/
+permalink: /values/
+redirect_from:
+  - /philosophy/
 author_profile: true
 ---
 

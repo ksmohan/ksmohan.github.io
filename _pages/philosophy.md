@@ -16,14 +16,14 @@ html { scroll-behavior: smooth; }
 .philosophy-triangle .pillar:hover circle, .philosophy-triangle .pillar:focus circle { fill: #0f3d66; }
 </style>
 
-<svg class="philosophy-triangle" viewBox="0 0 620 440" role="img" aria-labelledby="ptri-title" xmlns="http://www.w3.org/2000/svg">
+<svg class="philosophy-triangle" viewBox="0 0 620 440" overflow="visible" role="img" aria-labelledby="ptri-title" xmlns="http://www.w3.org/2000/svg">
 <title id="ptri-title">Mohan's philosophy and its three pillars: The Work, Human AI Collaboration, and Team and Community Comes First</title>
 <polygon points="310,70 560,370 60,370" fill="#eef4fa" stroke="#1f5f99" stroke-width="3" stroke-linejoin="round"/>
 <text x="310" y="272" text-anchor="middle" font-size="22" font-weight="700" fill="#222">Mohan's</text>
 <text x="310" y="300" text-anchor="middle" font-size="22" font-weight="700" fill="#222">Philosophy</text>
-<a class="pillar" href="#the-work"><circle cx="310" cy="70" r="14"/><text x="310" y="38" text-anchor="middle">1. The Work</text></a>
-<a class="pillar" href="#human-ai-collaboration"><circle cx="560" cy="370" r="14"/><text x="560" y="405" text-anchor="middle">2. Human AI Collaboration</text></a>
-<a class="pillar" href="#team-and-community"><circle cx="60" cy="370" r="14"/><text x="60" y="405" text-anchor="middle">3. Team and Community</text><text x="60" y="425" text-anchor="middle">Comes First</text></a>
+<a class="pillar" href="#the-work"><circle cx="310" cy="70" r="14"/><text x="310" y="38" text-anchor="middle">The Work</text></a>
+<a class="pillar" href="#human-ai-collaboration"><circle cx="560" cy="370" r="14"/><text x="600" y="405" text-anchor="end">Human AI Collaboration</text></a>
+<a class="pillar" href="#team-and-community"><circle cx="60" cy="370" r="14"/><text x="20" y="405" text-anchor="start">Team and Community</text><text x="20" y="425" text-anchor="start">Comes First</text></a>
 </svg>
 
 

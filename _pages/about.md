@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an R&D specialist with over 15 years of experience in applied AI, optimization and decision science. I advise startup founders and lead engineering teams, turning complex, uncertain problems into solutions people can use. I abide by a strong work ethic and a pragmatic philosophy of using AI tools to work faster without cutting corners on quality. You can read more about how I work in my [Values](/values/) page.
+I am an R&D specialist with over 15 years of experience in applied AI, optimization and decision science. I advise startup founders and lead engineering teams, turning complex, uncertain problems into solutions people can use. I abide by a strong work ethic and a pragmatic philosophy of using AI tools to work faster without cutting corners on quality. You can read more about how I work in my [Values](/values/) page, or download my <a href="/files/MK_CV_for_web.pdf" target="_blank">current CV</a>.
 
 I am currently a freelance Consultant & Strategic Advisor in Toronto, Ontario, Canada, helping startups
   make better decisions with AI and data by combining decision math (operations research) with machine learning.
